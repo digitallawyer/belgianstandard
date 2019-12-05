@@ -29,5 +29,9 @@ body {
 .subtitle {
     color:white; 
     font-weight: bold;
-    font-size:22px;
+    font-size:19.5px;
+}
+
+.link {
+    color: #1e7a8a;
 }
