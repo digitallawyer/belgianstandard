@@ -12,19 +12,22 @@ body {
     color:white; 
 } 
 
-.title {
-    color:black; 
-    text-align: center;
-    font-size:10em;
+.container {
     position: fixed;
-    bottom: 0;
+    top: 30vh;
+    right: 80px;
+    padding-left: 80px;
+
+}
+.title {
+    color:white; 
+    font-size:80px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 }
 
 .subtitle {
-    color:black; 
+    color:white; 
     font-weight: bold;
-    text-align: center;
-    font-size:3em;
-    position: fixed;
-    bottom: 0;
+    font-size:22px;
 }
