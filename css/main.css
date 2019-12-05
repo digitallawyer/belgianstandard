@@ -16,7 +16,7 @@ body {
     position: fixed;
     top: 30vh;
     right: 80px;
-    padding-left: 80px;
+    padding: 0px 80px;
 
 }
 .title {
